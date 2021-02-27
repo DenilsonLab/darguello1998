@@ -7,8 +7,6 @@
 
 - 👯 Todos mis proyectos estan disponibles en **<a href="https://github.com/darguello1998">Github</a> y <a href="https://codepen.io/denilson-arguello">Codepen</a>**
 
-- 🤔 Regularmente publico en mi **<a href="https://blog.denilsonarguello.com">Blog</a>**
-
 - 💬 Puedes preguntarme todo sobre **php, javascript y css**
 
 - 📫 Puedes contactarme en mis redes sociales o en mi **<a href="mailto:contacto@denilsonarguello.com">Correo</a>**
